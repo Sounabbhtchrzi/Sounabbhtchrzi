@@ -8,6 +8,7 @@
     <li>🔭 <strong>I’m currently working on web dev projects </strong></li>
     <li>🌱 <strong>I’m currently learning React js , Node js , Mongo db, Next js , React Native </strong></li>
     <li>📫 <strong>How to reach me:</strong> <a href="mailto:sounabbhattacharjee@gmail.com">sounabbhattacharjee@gmail.com</a></li>
+    <li>📫 <strong>My Portfolio website:</strong> <a href="https://sounab-portfolio.vercel.app">Click here</a></li>
 </ul>
 
 ## 🌐 Socials:
